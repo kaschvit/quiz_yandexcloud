@@ -1,7 +1,5 @@
 # Quiz Bot для Telegram
 
-Ссылка на бота: [@quizyc_bot](https://t.me/quizyc_bot)
-
 ## Основные команды:
 
 `/stats` - Статистика игрока
